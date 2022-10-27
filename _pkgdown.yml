@@ -1,4 +1,5 @@
 url: https://nandomh123.github.io/demo/
 template:
   bootstrap: 5
+  bootswatch: minty
 
